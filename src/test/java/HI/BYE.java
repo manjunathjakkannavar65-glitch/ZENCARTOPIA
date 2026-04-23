@@ -7,6 +7,7 @@ public class BYE {
 	public void byeTest() {
 		System.out.println("hi");
 		System.out.println("hi");
+		System.out.println("hi");
 		
 	}
 
